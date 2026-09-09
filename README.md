@@ -1,5 +1,5 @@
 ## Hi, I'm Prince Raj Singh 👋  
-Welcome to my Github Profile
+## Welcome to my Github Profile
 
 <!--
 **princerajsingh-7/princerajsingh-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
