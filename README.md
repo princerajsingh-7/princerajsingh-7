@@ -1,4 +1,4 @@
-# Hello, I'm Prince Raj Singh 👋
+# 🖐 Hello, I'm Prince Raj Singh 👋
 
 ### Welcome to my Github Profile
 
@@ -130,9 +130,9 @@ _Add your Ravindra Legal Associate link here_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=princerajsingh-7&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Tanishq's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=princerajsingh-7&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Prince GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=princerajsingh-7&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://streak-stats.demolab.com/?user=princerajsingh-7&theme=tokyonight&hide_border=true">
 </p>
 
 ---
