@@ -31,7 +31,7 @@ I'm a passionate **Web Development learner** who enjoys creating modern, respons
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,bootstrapicon,fontawesome,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,git,github,vscode" />
 
 </p>
 
