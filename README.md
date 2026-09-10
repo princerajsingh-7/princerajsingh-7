@@ -159,12 +159,12 @@ _Add your Ravindra Legal Associate link here_
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html" width="55" height="55">
-<img src="https://skillicons.dev/icons?i=css" width="55" height="55">
-<img src="https://skillicons.dev/icons?i=javascript" width="55" height="55">
-<img src="https://skillicons.dev/icons?i=c" width="55" height="55">
-<img src="https://skillicons.dev/icons?i=cpp" width="55" height="55">
-<img src="https://skillicons.dev/icons?i=python" width="55" height="55">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=c" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=cpp" width="50" height="50">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50">
 
 </p>
 
@@ -172,18 +172,18 @@ _Add your Ravindra Legal Associate link here_
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="left" display:flex; gap;20px;>
 
 <a href="https://github.com/princerajsingh-7">
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55">
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50">
 </a>
 
 <a href="YOUR_INSTAGRAM_LINK">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55">
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50">
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
 </a>
 
 </p>
