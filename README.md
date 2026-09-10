@@ -19,7 +19,7 @@
 I'm a passionate **Web Development learner** who enjoys creating modern, responsive and user-friendly websites.
 
 - 🔭 Currently working on **Frontend Web Development**
-- 🌱 Learning **HTML, CSS & JavaScript**
+- 🌱 Learning **JavaScript, c, c++, & Python**
 - 💻 Building responsive websites and UI designs
 - 🎯 Working towards becoming a **Full-Stack Web Developer**
 - ⚡ I love turning ideas into real projects
@@ -70,6 +70,9 @@ A modern and responsive **personal portfolio website** showcasing my skills, pro
 - 🚀 Projects Showcase
 - 📞 Contact Section
 
+**🔗 Project Link:**  
+[🌐 View Portfolio](https://princerajsingh-7.github.io/New-Portfolio/)
+
 ---
 
 ### 🛒 Martify — Online Shopping Store
@@ -92,6 +95,9 @@ A modern **online shopping store website** designed to provide a smooth and user
 - 🎨 Modern User Interface
 - 💳 Shopping Experience
 
+**🔗 Project Link:**  
+[🛒 Visit Martify](https://princerajsingh-7.github.io/Online-Shopping-Store/)
+
 ---
 
 ### ⚖️ Ravindra Legal Associate
@@ -105,6 +111,7 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 - JavaScript
 - Bootstrap Icons
 - Font Awesome
+- API
 
 **Features:**
 
@@ -114,6 +121,9 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 - 📋 Consultation Form
 - 📞 Contact Section
 - 🔗 Social Media Integration
+
+**🔗 Project Link:**  
+_Add your Ravindra Legal Associate link here_
 
 ---
 
@@ -145,14 +155,16 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 
 ## 📚 Learning & Improving
 
+## 📚 Learning & Improving
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://skillicons.dev/icons?i=html" width="55" height="55">
+<img src="https://skillicons.dev/icons?i=css" width="55" height="55">
+<img src="https://skillicons.dev/icons?i=javascript" width="55" height="55">
+<img src="https://skillicons.dev/icons?i=c" width="55" height="55">
+<img src="https://skillicons.dev/icons?i=cpp" width="55" height="55">
+<img src="https://skillicons.dev/icons?i=python" width="55" height="55">
 
 </p>
 
@@ -163,7 +175,15 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 <p align="center">
 
 <a href="https://github.com/princerajsingh-7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55">
+</a>
+
+<a href="YOUR_INSTAGRAM_LINK">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55">
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55">
 </a>
 
 </p>
