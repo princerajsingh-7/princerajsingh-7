@@ -1,7 +1,7 @@
 # Hello, I'm Prince Raj Singh 👋  
 ### Welcome to my Github Profile
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+Learner;Building+Modern+Responsive+Websites;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;JavaScript+%7C+C+%7C+Python+Learner;Building+Modern+Responsive+Websites;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -29,9 +29,20 @@ I'm a passionate **Web Development learner** who enjoys creating modern, respons
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode" />
 
 </p>
+
+### 💻 Languages & Technologies
+
+* 🌐 **HTML5**
+* 🎨 **CSS3**
+* ⚡ **JavaScript**
+* 🔵 **C**
+* 🐍 **Python**
+* 🔧 **Git & GitHub**
+* 💻 **VS Code**
+
 
 ---
 
