@@ -153,17 +153,16 @@ _Add your Ravindra Legal Associate link here_
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="./profile/top-langs.svg">
-</p>
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=princerajsingh-7&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 ---
 
 ## 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princerajsingh-7&theme=tokyo-night&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princerajsingh-7&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
+
 
 ---
 
