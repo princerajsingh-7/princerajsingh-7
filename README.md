@@ -130,8 +130,8 @@ _Add your Ravindra Legal Associate link here_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princerajsingh-7&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=princerajsingh-7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170">
+
   <img src="https://streak-stats.demolab.com/?user=princerajsingh-7&theme=tokyonight&hide_border=true" height="170">
 </p>
 
@@ -140,7 +140,7 @@ _Add your Ravindra Legal Associate link here_
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princerajsingh-7&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princerajsingh-7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
 </p>
 
 ---
@@ -155,16 +155,14 @@ _Add your Ravindra Legal Associate link here_
 
 ## 📚 Learning & Improving
 
-## 📚 Learning & Improving
-
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html" width="45" height="45" style="margin: 0 8px;">
-<img src="https://skillicons.dev/icons?i=css" width="45" height="45" style="margin: 0 8px;">
-<img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" style="margin: 0 8px;">
-<img src="https://skillicons.dev/icons?i=c" width="45" height="45" style="margin: 0 8px;">
-<img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" style="margin: 0 8px;">
-<img src="https://skillicons.dev/icons?i=python" width="45" height="45" style="margin: 0 8px;">
+<img src="https://skillicons.dev/icons?i=html" width="45" height="45" style="margin: 0 12px;">
+<img src="https://skillicons.dev/icons?i=css" width="45" height="45" style="margin: 0 12px;">
+<img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" style="margin: 0 12px;">
+<img src="https://skillicons.dev/icons?i=c" width="45" height="45" style="margin: 0 12px;">
+<img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" style="margin: 0 12px;">
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45" style="margin: 0 12px;">
 
 </p>
 
@@ -175,15 +173,15 @@ _Add your Ravindra Legal Associate link here_
 <p align="left">
 
 <a href="https://github.com/princerajsingh-7">
-  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" style="margin: 0 8px;">
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" style="margin: 0 12px;">
 </a>
 
 <a href="YOUR_INSTAGRAM_LINK">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" style="margin: 0 8px;">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" style="margin: 0 12px;">
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" style="margin: 0 8px;">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" style="margin: 0 12px;">
 </a>
 
 </p>
