@@ -1,7 +1,7 @@
 # Hello, I'm Prince Raj Singh 👋  
 ### Welcome to my Github Profile
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;JavaScript+%7C+C+%7C+Python+Learner;Building+Modern+Responsive+Websites;Always+Learning+New+Things+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;JavaScript+%7C+C+%7C+C+++%7C+Python+Learner;Building+Modern+Responsive+Websites;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -48,6 +48,50 @@ I'm a passionate **Web Development learner** who enjoys creating modern, respons
 
 ## 🚀 My Projects
 
+### 🌐 Personal Portfolio
+
+A modern and responsive **personal portfolio website** showcasing my skills, projects, and web development journey.
+
+**Tech Stack:**
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap Icons
+
+**Features:**
+
+* 📱 Responsive Design
+* 🎨 Modern UI
+* 👨‍💻 About Me Section
+* 🛠️ Skills Section
+* 🚀 Projects Showcase
+* 📞 Contact Section
+
+---
+
+### 🛒 Martify — Online Shopping Store
+
+A modern **online shopping store website** designed to provide a smooth and user-friendly shopping experience.
+
+**Tech Stack:**
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap Icons
+
+**Features:**
+
+* 🛍️ Product Display
+* 🔎 Product Search
+* 🛒 Shopping Cart
+* 📱 Responsive Design
+* 🎨 Modern User Interface
+* 💳 Shopping Experience
+
+---
+
 ### ⚖️ Ravindra Legal Associate
 
 A professional **Advocate Portfolio Website** designed with a modern and responsive interface.
@@ -68,6 +112,7 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 * 📋 Consultation Form
 * 📞 Contact Section
 * 🔗 Social Media Integration
+
 
 ---
 
