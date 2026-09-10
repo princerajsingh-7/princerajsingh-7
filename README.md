@@ -54,19 +54,22 @@ A modern and responsive **personal portfolio website** showcasing my skills, pro
 
 **Tech Stack:**
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap Icons
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap Icons
 
 **Features:**
 
-* 📱 Responsive Design
-* 🎨 Modern UI
-* 👨‍💻 About Me Section
-* 🛠️ Skills Section
-* 🚀 Projects Showcase
-* 📞 Contact Section
+- 📱 Responsive Design
+- 🎨 Modern UI
+- 👨‍💻 About Me Section
+- 🛠️ Skills Section
+- 🚀 Projects Showcase
+- 📞 Contact Section
+
+**🔗 Project Link:**  
+[🌐 View Portfolio](https://princerajsingh-7.github.io/New-Portfolio/)
 
 ---
 
@@ -76,19 +79,22 @@ A modern **online shopping store website** designed to provide a smooth and user
 
 **Tech Stack:**
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap Icons
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap Icons
 
 **Features:**
 
-* 🛍️ Product Display
-* 🔎 Product Search
-* 🛒 Shopping Cart
-* 📱 Responsive Design
-* 🎨 Modern User Interface
-* 💳 Shopping Experience
+- 🛍️ Product Display
+- 🔎 Product Search
+- 🛒 Shopping Cart
+- 📱 Responsive Design
+- 🎨 Modern User Interface
+- 💳 Shopping Experience
+
+**🔗 Project Link:**  
+[🛒 Visit Martify](https://princerajsingh-7.github.io/Online-Shopping-Store/)
 
 ---
 
@@ -98,21 +104,23 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 
 **Tech Stack:**
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap Icons
-* Font Awesome
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap Icons
+- Font Awesome
 
 **Features:**
 
-* 📱 Responsive Design
-* ⚖️ Legal Practice Areas
-* 👨‍⚖️ Advocate Portfolio
-* 📋 Consultation Form
-* 📞 Contact Section
-* 🔗 Social Media Integration
+- 📱 Responsive Design
+- ⚖️ Legal Practice Areas
+- 👨‍⚖️ Advocate Portfolio
+- 📋 Consultation Form
+- 📞 Contact Section
+- 🔗 Social Media Integration
 
+**🔗 Project Link:**  
+_Add your Ravindra Legal Associate link here_
 
 ---
 
@@ -149,8 +157,15 @@ A professional **Advocate Portfolio Website** designed with a modern and respons
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</p>
+<a href="https://www.instagram.com/princesingh.6792?stkn=cHFpZzh3dXlwYXFx">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
+<a href="www.linkedin.com/in/princerajsingh738">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
 ---
 
 ## 🎯 2026 Goals
