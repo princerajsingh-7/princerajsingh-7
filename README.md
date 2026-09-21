@@ -215,6 +215,10 @@ _Add your Ravindra Legal Associate link here_
 
 </h3>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🌊 WAVING FOOTER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <p align="center">
-⭐ Thanks for visiting my profile!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20 My%20Profile!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </p>
