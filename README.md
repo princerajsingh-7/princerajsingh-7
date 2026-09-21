@@ -2,10 +2,6 @@
 <!--                    🌊 WAVING HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=PRINCE%20RAJ%20SINGH&fontSize=42&fontColor=fff&fontFamily=Times%20New%20Roman&animation=twinkle" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prince%20Raj%20Singh&fontSize=70&fontColor=ffffff&fontFamily=Times%20New%20Roman&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
