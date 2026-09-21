@@ -215,10 +215,19 @@ _Add your Ravindra Legal Associate link here_
 
 </h3>
 
+### 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/princerajsingh-7/princerajsingh-7/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    🌊 WAVING FOOTER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20 My%20Profile!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile.!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </p>
