@@ -229,5 +229,5 @@ _Add your Ravindra Legal Associate link here_
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting%20My%20Profile.!&fontSize=25&fontColor=ffffff&fontFamily=Times%20New%20Roman&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=25&fontColor=ffffff&fontFamily=Times%20New%20Roman&animation=twinkling" />
 </p>
