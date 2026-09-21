@@ -21,11 +21,6 @@
 </p>
 
 ---
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div>
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Web Development learner** who enjoys creating modern, responsive and user-friendly websites.
@@ -200,6 +195,12 @@ _Add your Ravindra Legal Associate link here_
 </a>
 
 </p>
+
+---
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
 
 ---
 
