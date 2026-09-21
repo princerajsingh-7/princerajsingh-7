@@ -209,12 +209,6 @@ _Add your Ravindra Legal Associate link here_
 
 ---
 
-<h3 align="center">
-
-🚀 Keep Learning • Keep Building • Keep Growing 🚀
-
-</h3>
-
 ### 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
@@ -224,10 +218,16 @@ _Add your Ravindra Legal Associate link here_
 ---
 
 
+<h3 align="center">
+
+🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+</h3>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    🌊 WAVING FOOTER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile.!&fontSize=20&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting%20My%20Profile.!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </p>
