@@ -198,12 +198,6 @@ _Add your Ravindra Legal Associate link here_
 
 ---
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Improve JavaScript skills
