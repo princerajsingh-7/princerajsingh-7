@@ -166,7 +166,7 @@ _Add your Ravindra Legal Associate link here_
 
 ## 📚 Learning & Improving
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html" width="45" height="45" style="margin: 0 12px;">
 <img src="https://skillicons.dev/icons?i=css" width="45" height="45" style="margin: 0 12px;">
@@ -181,7 +181,7 @@ _Add your Ravindra Legal Associate link here_
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/princerajsingh-7">
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45" style="margin: 0 12px;">
