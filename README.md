@@ -2,7 +2,7 @@
 <!--                    🌊 WAVING HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prince%20Raj%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prince%20Raj%20Singh&fontSize=70&fontColor=ffffff&fontfamily=TimesNewRoman&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 # 👋 Hello, I'm Prince Raj Singh 
