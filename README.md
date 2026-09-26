@@ -6,8 +6,8 @@
 </div>
 
 
-<h1 align="center" fontSize=80>  👋 Hello, I'm Prince Raj Singh </h1>
-<h3 align="center" fontSize=30>  Welcome to my Github Profile </h3>
+<h1 align="center"&fontSize=60>  👋 Hello, I'm Prince Raj Singh </h1>
+<h3 align="center"&fontSize=30>  Welcome to my Github Profile </h3>
 
 
 <p align="center">
