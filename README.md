@@ -6,7 +6,8 @@
 </div>
 
 
-# 👋 Hello, I'm Prince Raj Singh 
+<h1 align="center">  👋 Hello, I'm Prince Raj Singh 
+</h1>
 
 ### Welcome to my Github Profile
 
