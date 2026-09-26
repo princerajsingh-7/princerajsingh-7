@@ -6,10 +6,9 @@
 </div>
 
 
-<h1 align="center">  👋 Hello, I'm Prince Raj Singh 
-</h1>
+<h1 align="center" fontSize=60>  👋 Hello, I'm Prince Raj Singh </h1>
+<h1 align="center" fontSize=50>  Welcome to my Github Profile </h1>
 
-### Welcome to my Github Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;JavaScript+%7C+C+%7C+C%2B%2B+%7C+Python+Learner;Building+Modern+Responsive+Websites;Always+Learning+New+Things+%F0%9F%9A%80" />
